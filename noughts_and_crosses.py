@@ -1,6 +1,6 @@
 #This program is a noughts and crosses game
 
-print ("Welcome to Sam's Noughts and Crosses Game")
+print ("Welcome to this Noughts and Crosses Game")
 print ("")
 winner = False
 ended = False
