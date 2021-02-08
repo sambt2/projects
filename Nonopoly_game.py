@@ -1,6 +1,6 @@
 
-# This is a program to provide a text-based Nonopoly game.
-
+# This is a program to provide a text-based Nonopoly game, which is similar to monopoly but not quite the same. 
+# It provides general functionality, but (a) the buying houses function is incomplete, (b) you can't trade properties with other players yet, and (c) there is no bankruptcy mechanism yet. 
 
 
 # This section sets up the starting parameters.
